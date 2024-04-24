@@ -14,7 +14,7 @@ export default {
       },
       fontFamily:{
         sans: ["Poppins","sans-serif"],
-        // cursive: ["Caveat","Cursive"],
+        cursive: ["Allura", "cursive"],
       },
       container:{
         center: true,
